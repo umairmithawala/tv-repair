@@ -34,7 +34,7 @@
                                 <span>Call Us : <a href="tel:+919036211916">+919036211916</a></span>
                             </div>
                             <div class="tp-header-btn-three">
-                                <a href="contact.php" class="yellow-btn"><i class="flaticon-enter"></i> Free Quote</a>
+                                <a href="contact.php" class="yellow-btn"><i class="flaticon-enter"></i>Book Now</a>
                             </div>
                         </div>
                     </div>

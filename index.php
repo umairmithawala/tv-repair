@@ -62,9 +62,9 @@
                     <div class="contact-list mb-30">
                         <h4>Contact Info</h4>
                         <ul>
-                            <li><i class="flaticon-pin"></i>28/4 Palmal, London</li>
-                            <li><i class="flaticon-email"></i><a href="https://themepure.net/cdn-cgi/l/email-protection#dab3b4bcb59ab1b6bfb4bba8f4b9b5b7"><span class="__cf_email__" data-cfemail="deb7b0b8b19eb5b2bbb0bfacf0bdb1b3">[email&#160;protected]</span></a></li>
-                            <li><i class="flaticon-phone-call"></i><a href="tel:33388820055">333 888 200 - 55</a></li>
+                            <li><i class="flaticon-pin"></i>Banglore</li>
+                            <li><i class="flaticon-email"></i><a href="https://themepure.net/cdn-cgi/l/email-protection#dab3b4bcb59ab1b6bfb4bba8f4b9b5b7">support@tv-repair.in</a></li>
+                            <li><i class="flaticon-phone-call"></i><a href="tel:33388820055">+919036211916</a></li>
                         </ul>
                         <div class="sidebar__menu--social">
                             <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -259,22 +259,19 @@
                 <div class="brand-active-two swiper-container">
                     <div class="swiper-wrapper">
                         <div class="brand-wrapper-two text-center swiper-slide wow fadeInUp" data-wow-delay=".3s" data-swiper-autoplay="5000">
-                            <a href="#"><img src="assets/img/brand/download.png" class="img-fluid" alt="img"></a>
+                            <a href="#"><img src="assets/img/brand/lg.png" class="img-fluid" alt="img"></a>
                         </div>
                         <div class="brand-wrapper-two text-center swiper-slide wow fadeInUp" data-wow-delay=".6s" data-swiper-autoplay="5000">
-                            <a href="#"><img src="assets/img/brand/brand-2.png" class="img-fluid" alt="img"></a>
+                            <a href="#"><img src="assets/img/brand/sony.png" class="img-fluid" alt="img"></a>
                         </div>
                         <div class="brand-wrapper-two text-center swiper-slide wow fadeInUp" data-wow-delay=".9s" data-swiper-autoplay="5000">
-                            <a href="#"><img src="assets/img/brand/brand-3.png" class="img-fluid" alt="img"></a>
+                            <a href="#"><img src="assets/img/brand/philips.png" class="img-fluid" alt="img"></a>
                         </div>
                         <div class="brand-wrapper-two text-center swiper-slide wow fadeInUp" data-wow-delay="1.2s" data-swiper-autoplay="5000">
-                            <a href="#"><img src="assets/img/brand/brand-4.png" class="img-fluid" alt="img"></a>
+                            <a href="#"><img src="assets/img/brand/panasonic.png" class="img-fluid" alt="img"></a>
                         </div>
                         <div class="brand-wrapper-two text-center swiper-slide wow fadeInUp" data-wow-delay="1.5s" data-swiper-autoplay="5000">
-                            <a href="#"><img src="assets/img/brand/brand-5.png" class="img-fluid" alt="img"></a>
-                        </div>
-                        <div class="brand-wrapper-two text-center swiper-slide wow fadeInUp" data-wow-delay="1.8s" data-swiper-autoplay="5000">
-                            <a href="#"><img src="assets/img/brand/brand-1.png" class="img-fluid" alt="img"></a>
+                            <a href="#"><img src="assets/img/brand/samsung.png" class="img-fluid" alt="img"></a>
                         </div>
                     </div>
                 </div>
